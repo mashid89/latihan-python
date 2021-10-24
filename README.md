@@ -54,7 +54,7 @@ print("\n\n Assalamu'alaikum. ")
 
 print(f"Let me introduce myself, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and i am {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thank you ")
 
-pythone
+python
 ![Picture3](https://user-images.githubusercontent.com/92669810/138605986-7d718ce5-582d-4ce6-8e93-d9db3178ae2d.png)
 
 output
