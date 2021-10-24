@@ -10,24 +10,43 @@ print("= KELAS   : TI.21 C5         ")
 
 print("**********")
 
+
 print("Please enter your full name : ")
+
 fullname=input()
+
 print("Please enter nickname : ")
+
 nickname=input()
+
 print("Please enter your NPM : ")
+
 npm=int(input())
+
 print("Please enter place of birth : ")
+
 pob=input()
+
 print("Please enter date of birth : ")
+
 date=int(input())
+
 print("Please enter your month of birth : ")
+
 month=input()
+
 print("Please enter year of birth : ")
+
 year=int(input())
+
 print("Please enter your phone number : ")
+
 phone=int(input())
+
 print("Please enter your address : ")
+
 address=input()
+
 
 dob=2021-year
 
