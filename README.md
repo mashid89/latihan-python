@@ -1,9 +1,13 @@
 # latihan-python
 
 print("**********")
+
 print("= NAMA    : NUR HIDAYAT")
+
 print("= NIM     : 312110584         ")
+
 print("= KELAS   : TI.21 C5         ")
+
 print("**********")
 
 print("Please enter your full name : ")
