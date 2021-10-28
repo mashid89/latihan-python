@@ -1,15 +1,11 @@
-print("**********")
-print("= NAMA    : NUR HIDAYAT")
-print("= NIM     : 312110584         ")
-print("= KELAS   : TI.21 C5         ")
-print("**********")
-
 print("Please enter your full name : ")
 fullname=input()
 print("Please enter nickname : ")
 nickname=input()
 print("Please enter your NPM : ")
 npm=int(input())
+print("please enter your class : ")
+pylance=(input())
 print("Please enter place of birth : ")
 pob=input()
 print("Please enter date of birth : ")
@@ -25,5 +21,17 @@ address=input()
 
 dob=2021-year
 
+print("**********")
+print(f"= NAMA    : {fullname}")
+print(f"= NIM     : {npm}         ")
+print(f"= KELAS   : {pylance}         ")
+print("**********")
+
+
 print("\n\n Assalamu'alaikum. ")
-print(f"Let me introduce myself, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and i am {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thank you ")
+print(f"Let me introduce myself, my name is {fullname}, ")
+print(f"but you can call me {nickname}, my NPM {npm}, ")
+print(f"I was born in {pob} and i am {dob} years old, ")
+print(f"I am very glad if you want to invite my house in {address}, ")
+print(f"So don't forget to call me before with the number {phone}, ")
+print("\n\n Thank you ")
